@@ -1,7 +1,7 @@
 # Maintainer: Eric Vidal <eric@obarun.org>
 
 pkgname=s6-linux-init
-pkgver=0.3.1.1
+pkgver=0.4.0.0
 pkgrel=1
 pkgdesc="Suite of tools to create an s6-based Linux init system"
 arch=(x86_64)
